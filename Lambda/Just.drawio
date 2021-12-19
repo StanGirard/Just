@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2021-12-19T11:54:09.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ScPEWRFwHrbynN-gLGgn" version="15.9.6" type="github">
+  <diagram id="XZLAI_RSzJLNkHkKi3j2" name="Page-1">
+    <mxGraphModel dx="1298" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KVYzFe0HhOGAvs866bpS-1" value="JS Client" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;strokeWidth=3;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h0UVCJsAGZdsQ6SNU_fm-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;sketch=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="76.5" height="93" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
